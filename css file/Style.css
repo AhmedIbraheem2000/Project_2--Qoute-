@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Qoutes_box{
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+.Qoutes .Qoutes_box .social a{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    transition: 0.4s;
+    color: #000;
+}
+.Qoutes .Qoutes_box .social a:hover{
+    background-color: black;
+    color: white;
+}
